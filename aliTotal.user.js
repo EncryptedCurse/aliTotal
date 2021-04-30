@@ -2,7 +2,7 @@
 // @name         aliTotal
 // @version      1.0
 // @author       EncryptedCurse
-// @match        *.aliexpress.*/item/*
+// @include      *.aliexpress.*/item/*
 // @grant        none
 // @run-at       document-idle
 // @updateURL    https://raw.githubusercontent.com/EncryptedCurse/aliTotal/master/aliTotal.user.js
